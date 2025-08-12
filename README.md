@@ -23,7 +23,6 @@ Soy desarrollador Full‑Stack con experiencia en **Java Spring Boot**, **PHP**,
 ---
 
 > "La mejor manera de aprender es construyendo, fallando y mejorando — cada línea de código cuenta."  
-> "The best way to learn is by building, failing, and improving — every line of code matters."
 
 
 
